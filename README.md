@@ -5,7 +5,7 @@
  3. [REGRAS DO JOGO](#regra)
  4. [COMO JOGAR](#play)
  5. [CRÉDITOS](#cred)
- 6. [LICENÇA DO PROJETO](https://github.com/Kadu-Santos/Jogo-Forca-Javascrip---Web/blob/main/LICENSE)
+ 6. [LICENÇA DO PROJETO](https://github.com/Kadu-Santos/Jogo-NIM---WEB/blob/main/LICENSE)
 *********
 
 <div id='desc'/>
