@@ -12,7 +12,7 @@
 
 ## 📋 Descrição
 <p><p/>
-COMO FUNCIONA -> 
+COMO FUNCIONA -> A aplicação "Jogo NIM" funciona da seguinte maneira: no início do jogo, é sorteado aleatoriamente o número 1 ou 2 para determinar qual jogador será o primeiro a jogar. Cada jogador, em sua vez, pode remover um ou mais palitos de uma coluna. O objetivo é remover o último palito, e assim vencer o jogo. Durante a partida, é mantido um contador do número total de palitos removidos. Quando esse contador chegar a 15, o último jogador que realizou uma jogada será declarado vencedor. Ou seja, quando não houver mais palitos disponíveis para serem removidos, o jogador que realizou a última jogada vencerá o jogo.
 
 TECNOLOGIAS USADAS -> Esta aplicação foi contruída utilizando HTML, CSS, JavaScript e o framework front-end Bootstrap v5.
 
